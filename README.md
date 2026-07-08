@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0503-next-greater-element-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1929-concatenation-of-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -19,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Simulation
 |  |
@@ -32,4 +34,12 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
