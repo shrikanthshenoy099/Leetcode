@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0503-next-greater-element-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
