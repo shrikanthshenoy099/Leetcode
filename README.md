@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -52,6 +53,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0046-permutations) |
 ## Sliding Window
 |  |
