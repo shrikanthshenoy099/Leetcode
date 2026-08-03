@@ -25,11 +25,13 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0043-multiply-strings) |
 | [1929-concatenation-of-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
