@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0503-next-greater-element-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0090-subsets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
