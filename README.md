@@ -32,6 +32,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Simulation
 |  |
@@ -55,6 +56,7 @@
 | [0001-two-sum](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -86,4 +88,12 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0845-longest-mountain-in-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
