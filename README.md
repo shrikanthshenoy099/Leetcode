@@ -32,6 +32,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0065-valid-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Simulation
