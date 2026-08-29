@@ -23,11 +23,13 @@
 | [0042-trapping-rain-water](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shrikanthshenoy099/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shrikanthshenoy099/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -116,11 +118,13 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shrikanthshenoy099/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shrikanthshenoy099/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
