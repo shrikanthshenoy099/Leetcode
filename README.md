@@ -54,6 +54,7 @@
 | [0125-valid-palindrome](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0202-happy-number) |
 | [0845-longest-mountain-in-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Binary Search
 |  |
@@ -64,6 +65,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0389-find-the-difference) |
@@ -90,6 +92,7 @@
 | [0009-palindrome-number](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,4 +133,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0409-longest-palindrome) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
