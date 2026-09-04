@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shrikanthshenoy099/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -141,4 +142,16 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0202-happy-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
