@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -51,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0125-valid-palindrome) |
