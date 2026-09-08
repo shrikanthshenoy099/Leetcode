@@ -39,6 +39,7 @@
 | [0043-multiply-strings](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0389-find-the-difference) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -98,6 +100,7 @@
 | [0002-add-two-numbers](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
@@ -108,6 +111,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0389-find-the-difference) |
 ## Enumeration
