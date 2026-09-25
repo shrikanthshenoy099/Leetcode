@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0046-permutations) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -204,4 +206,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
