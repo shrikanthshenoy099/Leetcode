@@ -22,6 +22,7 @@
 | [0189-rotate-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0503-next-greater-element-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0621-task-scheduler) |
 | [0845-longest-mountain-in-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -213,4 +214,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0036-valid-sudoku) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
