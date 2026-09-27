@@ -20,6 +20,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0503-next-greater-element-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0621-task-scheduler) |
@@ -86,6 +87,7 @@
 | [0141-linked-list-cycle](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0389-find-the-difference) |
@@ -96,6 +98,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0621-task-scheduler) |
 ## Backtracking
