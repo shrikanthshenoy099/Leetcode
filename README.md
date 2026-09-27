@@ -50,6 +50,7 @@
 | [0067-add-binary](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0409-longest-palindrome) |
@@ -90,6 +91,7 @@
 | [0202-happy-number](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0409-longest-palindrome) |
@@ -100,6 +102,7 @@
 | [0047-permutations-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0621-task-scheduler) |
 ## Backtracking
