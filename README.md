@@ -31,6 +31,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -45,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0065-valid-number) |
@@ -238,4 +240,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
