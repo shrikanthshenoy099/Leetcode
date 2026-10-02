@@ -14,6 +14,7 @@
 | [0046-permutations](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0118-pascals-triangle) |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0118-pascals-triangle) |
 | [0845-longest-mountain-in-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Bit Manipulation
@@ -231,6 +233,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
