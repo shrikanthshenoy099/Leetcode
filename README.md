@@ -29,6 +29,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0621-task-scheduler) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0845-longest-mountain-in-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -117,6 +118,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0621-task-scheduler) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Backtracking
 |  |
 | ------- |
