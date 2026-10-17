@@ -28,6 +28,7 @@
 | [0238-product-of-array-except-self](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0621-task-scheduler) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0845-longest-mountain-in-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -106,6 +107,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
