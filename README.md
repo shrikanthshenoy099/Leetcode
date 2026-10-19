@@ -30,6 +30,7 @@
 | [0503-next-greater-element-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0621-task-scheduler) |
+| [0706-design-hashmap](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0706-design-hashmap) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0845-longest-mountain-in-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -109,6 +110,7 @@
 | [0409-longest-palindrome](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0621-task-scheduler) |
+| [0706-design-hashmap](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0706-design-hashmap) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | [0141-linked-list-cycle](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0706-design-hashmap](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0706-design-hashmap) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shrikanthshenoy099/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -225,6 +228,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0706-design-hashmap](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0706-design-hashmap) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -274,4 +278,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
