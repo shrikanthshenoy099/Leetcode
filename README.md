@@ -32,6 +32,7 @@
 | [0503-next-greater-element-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0621-task-scheduler) |
+| [0704-binary-search](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0706-design-hashmap) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0845-longest-mountain-in-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
