@@ -37,6 +37,7 @@
 | [0706-design-hashmap](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0706-design-hashmap) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0845-longest-mountain-in-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0875-koko-eating-bananas](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Stack
@@ -99,6 +100,7 @@
 | [0074-search-a-2d-matrix](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
