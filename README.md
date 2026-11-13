@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -97,6 +98,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
