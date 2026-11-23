@@ -53,6 +53,7 @@
 | [0042-trapping-rain-water](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shrikanthshenoy099/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -75,6 +76,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0409-longest-palindrome) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Simulation
 |  |
@@ -296,6 +298,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0020-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Quicksort
 |  |
 | ------- |
