@@ -114,6 +114,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0374-guess-number-higher-or-lower](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shrikanthshenoy099/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -313,4 +314,8 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0706-design-hashmap) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shrikanthshenoy099/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
